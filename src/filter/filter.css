@@ -1,0 +1,63 @@
+.filterboxv
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 228px;
+    height: 190px;
+    left:1120px;
+    top:140px;
+    background: #131313;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    visibility: visible;
+}
+.filterboxin
+{
+    visibility: hidden;
+}
+hr
+{
+    width: 158px;
+    height: 0px;
+    border: 1px solid #CBCBCB;
+}
+.boxtxt
+{
+    width: 150px;
+    height: 24px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color:  #A5A5A5;
+    margin:5px;
+    display:flex;
+    justify-content: flex-start;
+}
+select
+{
+    width: 168.45px;
+    height: 37.5px;
+    background: #232323;
+    border-radius: 4.68775px;
+    margin:5px;
+    padding: 7px;
+    color: #FFFFFF;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    padding-right: 15px;
+    background-image: url('../image/arrow.png');
+    background-repeat: no-repeat;
+    background-position: calc(95%) center;
+    background-size: 10px;
+}

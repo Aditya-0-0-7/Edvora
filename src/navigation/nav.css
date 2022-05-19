@@ -1,0 +1,92 @@
+.near
+{
+    position: absolute;
+    width: 118px;
+    height: 22px;
+    left: 43px;
+    top: 115px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #D0CBCB;
+    text-decoration: none;
+}
+.change_near
+{
+    position: absolute;
+    width: 118px;
+    height: 22px;
+    left: 43px;
+    top: 115px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+.up
+{
+    position: absolute;
+    width: 170px;
+    height: 22px;
+    left: 205px;
+    top: 115px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #D0CBCB;
+    text-decoration: none;
+}
+.change_up
+{
+    position: absolute;
+    width: 170px;
+    height: 22px;
+    left: 205px;
+    top: 115px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+.pass
+{
+    position: absolute;
+    width: 114px;
+    height: 22px;
+    left: 413px;
+    top: 115px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    color: #D0CBCB;
+    text-decoration: none;
+}
+.change_pass
+{
+    position: absolute;
+    width: 114px;
+    height: 22px;
+    left: 413px;
+    top: 115px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    color: #FFFFFF;
+    text-decoration: underline;
+}
